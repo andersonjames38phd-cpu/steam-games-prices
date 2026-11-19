@@ -1,0 +1,181 @@
+[
+  {
+    "appId": 2399830,
+    "name": "ARK: Survival Ascended",
+    "type": "game",
+    "url": "https://store.steampowered.com/app/2399830/",
+    "isFree": false,
+    "price": 44.99,
+    "originalPrice": 44.99,
+    "discountPercent": 0,
+    "priceFormatted": "$44.99",
+    "currency": "USD",
+    "releaseDate": "Oct 25, 2023",
+    "comingSoon": false,
+    "developers": [
+      "Studio Wildcard",
+      "Grove Street Games",
+      "Instinct Games"
+    ],
+    "publishers": [
+      "Studio Wildcard",
+      "Snail Games USA"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "metacriticScore": null,
+    "metacriticUrl": null,
+    "recommendations": 110711,
+    "achievements": 32,
+    "dlcCount": 20,
+    "requiredAge": 0,
+    "website": "http://www.playark.com",
+    "supportUrl": "https://support.survivetheark.com/hc/en-us",
+    "supportEmail": "support@studiowildcard.com",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1793226168",
+    "source": "search",
+    "list": null,
+    "searchTerm": "survival",
+    "country": "us"
+  },
+  {
+    "appId": 346110,
+    "name": "ARK: Survival Evolved",
+    "type": "game",
+    "url": "https://store.steampowered.com/app/346110/",
+    "isFree": false,
+    "price": 14.99,
+    "originalPrice": 14.99,
+    "discountPercent": 0,
+    "priceFormatted": "$14.99",
+    "currency": "USD",
+    "releaseDate": "Aug 27, 2017",
+    "comingSoon": false,
+    "developers": [
+      "Studio Wildcard",
+      "Instinct Games",
+      "Efecto Studios",
+      "Virtual Basement LLC"
+    ],
+    "publishers": [
+      "Studio Wildcard",
+      "Snail Games USA"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": [
+      "windows",
+      "mac"
+    ],
+    "metacriticScore": 70,
+    "metacriticUrl": "https://www.metacritic.com/game/pc/ark-survival-evolved?ftag=MCD-06-10aaa1f",
+    "recommendations": 589947,
+    "achievements": 32,
+    "dlcCount": 18,
+    "requiredAge": 0,
+    "website": "http://www.playark.com",
+    "supportUrl": "https://support.survivetheark.com/hc/en-us",
+    "supportEmail": "support@studiowildcard.com",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1793226330",
+    "source": "search",
+    "list": null,
+    "searchTerm": "survival",
+    "country": "us"
+  },
+  {
+    "appId": 4164790,
+    "name": "Survival Log",
+    "type": "game",
+    "url": "https://store.steampowered.com/app/4164790/",
+    "isFree": false,
+    "price": 10.99,
+    "originalPrice": 10.99,
+    "discountPercent": 0,
+    "priceFormatted": "$10.99",
+    "currency": "USD",
+    "releaseDate": "Aug 12, 2026",
+    "comingSoon": false,
+    "developers": [
+      "Midnight Workshop"
+    ],
+    "publishers": [
+      "Lilith Games"
+    ],
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "metacriticScore": null,
+    "metacriticUrl": null,
+    "recommendations": 3897,
+    "achievements": 122,
+    "dlcCount": 0,
+    "requiredAge": 0,
+    "website": null,
+    "supportUrl": null,
+    "supportEmail": "support@lilith.com",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/5f5a1a66f988690c1507b383be89b2869c17e17f/header.jpg?t=1793931062",
+    "source": "search",
+    "list": null,
+    "searchTerm": "survival",
+    "country": "us"
+  }
+]
